@@ -5,10 +5,10 @@
 ## How it works?
 - assume a Normal (Gaussian) distribution for these data in each group. As we know that there are three groups.
 - estimate the means and variance-covariance matrices in each group (by using only the data in each group).
-- We use them to estimate the PDF fi in each group by using normal PDF with these parameter values. The estimations of the respective PDF are represented by fi for i =1, 2, 3.
-- We approximate the entropies in the groups for the multivariate case.
+- use them to estimate the PDF fi in each group by using normal PDF with these parameter values. The estimations of the respective PDF are represented by fi for i =1, 2, 3.
+- approximate the entropies in the groups for the multivariate case.
 
-##Screenshots
+## Screenshots
 
 ![image](https://github.com/mahdiehpanahian/Shannon-entropy-separation/assets/123892361/9fa5f479-32a8-41ed-b201-e494d2ea0806)
 
